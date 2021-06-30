@@ -1,0 +1,8 @@
+{
+    "type": "note",
+    "properties": {
+        "material": "wood",
+        "sounds": "wood",
+        "hardness_and_resistance": 0.8
+    }
+}

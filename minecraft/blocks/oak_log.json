@@ -1,0 +1,16 @@
+{
+    "type": "rotated_pillar",
+    "properties": {
+        "material": "wood",
+        "map_color": "obsidian",
+        "hardness_and_resistance": 2.0,
+        "sounds": "wood",
+        "by_state": {
+            "axis": {
+                "y": {
+                    "map_color": "wood"
+                }
+            }
+        }
+    }
+}

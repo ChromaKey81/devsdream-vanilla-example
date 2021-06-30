@@ -1,0 +1,18 @@
+{
+    "type": "bed",
+    "dye_color": "purple",
+    "properties": {
+        "material": "wool",
+        "map_color": "wool",
+        "by_state": {
+            "part": {
+                "foot": {
+                    "map_color": "purple"
+                }
+            }
+        },
+        "sounds": "wood",
+        "hardness_and_resistance": 0.2,
+        "solid": false
+    }
+}

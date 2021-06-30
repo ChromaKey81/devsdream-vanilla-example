@@ -1,0 +1,10 @@
+{
+    "type": "sand",
+    "dust_color": 14406560,
+    "properties": {
+        "material": "sand",
+        "map_color": "adobe",
+        "hardness_and_resistance": 0.5,
+        "sounds": "sand"
+    }
+}

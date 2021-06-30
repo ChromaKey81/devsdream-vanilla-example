@@ -1,0 +1,9 @@
+{
+    "type": "rotated_pillar",
+    "properties": {
+        "material": "wood",
+        "map_color": "gray",
+        "hardness_and_resistance": 2.0,
+        "sounds": "wood"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "sponge",
+    "properties": {
+        "material": "sponge",
+        "hardness_and_resistance": 0.6,
+        "sounds": "plant"
+    }
+}

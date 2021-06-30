@@ -1,0 +1,12 @@
+{
+    "type": "simple",
+    "properties": {
+        "material": "iron",
+        "map_color": "lapis",
+        "requires_tool": true,
+        "hardness_and_resistance": {
+            "hardness": 3.0,
+            "resistance": 3.0
+        }
+    }
+}

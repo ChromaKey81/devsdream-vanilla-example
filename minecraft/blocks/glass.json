@@ -1,0 +1,13 @@
+{
+    "type": "glass",
+    "properties": {
+        "material": "glass",
+        "hardness_and_resistance": 0.3,
+        "sounds": "glass",
+        "solid": false,
+        "allows_spawn": false,
+        "opaque": false,
+        "suffocates": false,
+        "blocks_vision": false
+    }
+}

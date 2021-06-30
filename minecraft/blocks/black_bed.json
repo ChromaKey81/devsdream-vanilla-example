@@ -1,0 +1,18 @@
+{
+    "type": "bed",
+    "dye_color": "black",
+    "properties": {
+        "material": "wool",
+        "map_color": "wool",
+        "by_state": {
+            "part": {
+                "foot": {
+                    "map_color": "black"
+                }
+            }
+        },
+        "sounds": "wood",
+        "hardness_and_resistance": 0.2,
+        "solid": false
+    }
+}
