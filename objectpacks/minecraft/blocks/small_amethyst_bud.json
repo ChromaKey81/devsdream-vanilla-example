@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:amethyst_cluster",
+    "height": 3,
+    "x_z_offset": 4,
+    "settings": {
+        "material": "minecraft:amethyst_cluster",
+        "sounds": "minecraft:small_amethyst_bud",
+        "luminance": 1
+    }
+}
