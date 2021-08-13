@@ -1,0 +1,6 @@
+{
+    "map_color": "oak_tan",
+    "burnable": true,
+    "piston_behavior": "destroy",
+    "blocks_movement": false
+}

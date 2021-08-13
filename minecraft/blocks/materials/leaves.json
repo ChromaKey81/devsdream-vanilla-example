@@ -1,0 +1,6 @@
+{
+    "map_color": "dark_green",
+    "burnable": true,
+    "piston_behavior": "destroy",
+    "blocks_light": false
+}

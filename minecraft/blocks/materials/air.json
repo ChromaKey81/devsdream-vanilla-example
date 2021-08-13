@@ -1,0 +1,7 @@
+{
+    "map_color": "clear",
+    "blocks_movement": false,
+    "blocks_light": false,
+    "solid": false,
+    "replaceable": true
+}

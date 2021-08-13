@@ -1,0 +1,6 @@
+{
+    "map_color": "white_gray",
+    "blocks_movement": false,
+    "blocks_light": false,
+    "piston_behavior": "destroy"
+}

@@ -1,0 +1,7 @@
+{
+    "map_color": "white_gray",
+    "blocks_movement": false,
+    "blocks_light": false,
+    "solid": false,
+    "burnable": true
+}
