@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:air",
+    "settings": {
+        "material": "minecraft:air",
+        "collidable": false,
+        "drops": "minecraft:empty",
+        "air": true
+    }
+}
