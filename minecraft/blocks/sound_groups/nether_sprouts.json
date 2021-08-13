@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.nether_sprouts.break",
+    "step": "block.nether_sprouts.step",
+    "place": "block.nether_sprouts.place",
+    "hit": "block.nether_sprouts.hit",
+    "fall": "block.nether_sprouts.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.dripstone_block.break",
+    "step": "block.dripstone_block.step",
+    "place": "block.dripstone_block.place",
+    "hit": "block.dripstone_block.hit",
+    "fall": "block.dripstone_block.fall"
+}

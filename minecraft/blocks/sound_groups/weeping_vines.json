@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.weeping_vines.break",
+    "step": "block.weeping_vines.step",
+    "place": "block.weeping_vines.place",
+    "hit": "block.weeping_vines.hit",
+    "fall": "block.weeping_vines.fall"
+}

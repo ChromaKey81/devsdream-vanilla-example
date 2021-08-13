@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.nether_bricks.break",
+    "step": "block.nether_bricks.step",
+    "place": "block.nether_bricks.place",
+    "hit": "block.nether_bricks.hit",
+    "fall": "block.nether_bricks.fall"
+}

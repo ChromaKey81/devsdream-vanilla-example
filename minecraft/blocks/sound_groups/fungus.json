@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.fungus.break",
+    "step": "block.fungus.step",
+    "place": "block.fungus.place",
+    "hit": "block.fungus.hit",
+    "fall": "block.fungus.fall"
+}

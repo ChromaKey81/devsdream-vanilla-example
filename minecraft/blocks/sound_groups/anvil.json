@@ -1,0 +1,9 @@
+{
+    "volume": 0.3,
+    "pitch": 1.0,
+    "break": "block.anvil.break",
+    "step": "block.anvil.step",
+    "place": "block.anvil.place",
+    "hit": "block.anvil.hit",
+    "fall": "block.anvil.fall"
+}

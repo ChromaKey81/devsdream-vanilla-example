@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.honey_block.break",
+    "step": "block.honey_block.step",
+    "place": "block.honey_block.place",
+    "hit": "block.honey_block.hit",
+    "fall": "block.honey_block.fall"
+}

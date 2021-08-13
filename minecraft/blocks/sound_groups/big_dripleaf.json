@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.big_dripleaf.break",
+    "step": "block.big_dripleaf.step",
+    "place": "block.big_dripleaf.place",
+    "hit": "block.big_dripleaf.hit",
+    "fall": "block.big_dripleaf.fall"
+}

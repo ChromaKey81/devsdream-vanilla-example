@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.moss_carpet.break",
+    "step": "block.moss_carpet.step",
+    "place": "block.moss_carpet.place",
+    "hit": "block.moss_carpet.hit",
+    "fall": "block.moss_carpet.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.gravel.break",
+    "step": "block.gravel.step",
+    "place": "block.gravel.place",
+    "hit": "block.gravel.hit",
+    "fall": "block.gravel.fall"
+}

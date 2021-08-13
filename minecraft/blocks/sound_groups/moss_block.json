@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.moss_block.break",
+    "step": "block.moss_block.step",
+    "place": "block.moss_block.place",
+    "hit": "block.moss_block.hit",
+    "fall": "block.moss_block.fall"
+}

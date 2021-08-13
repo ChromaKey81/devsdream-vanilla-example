@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.vine.break",
+    "step": "block.vine.step",
+    "place": "block.vine.place",
+    "hit": "block.vine.hit",
+    "fall": "block.vine.fall"
+}

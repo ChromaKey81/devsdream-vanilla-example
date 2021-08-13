@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.slime_block.break",
+    "step": "block.slime_block.step",
+    "place": "block.slime_block.place",
+    "hit": "block.slime_block.hit",
+    "fall": "block.slime_block.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.lantern.break",
+    "step": "block.lantern.step",
+    "place": "block.lantern.place",
+    "hit": "block.lantern.hit",
+    "fall": "block.lantern.fall"
+}

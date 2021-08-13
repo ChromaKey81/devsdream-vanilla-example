@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.nether_ore.break",
+    "step": "block.nether_ore.step",
+    "place": "block.nether_ore.place",
+    "hit": "block.nether_ore.hit",
+    "fall": "block.nether_ore.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.spore_blossom.break",
+    "step": "block.spore_blossom.step",
+    "place": "block.spore_blossom.place",
+    "hit": "block.spore_blossom.hit",
+    "fall": "block.spore_blossom.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.lodestone.break",
+    "step": "block.lodestone.step",
+    "place": "block.lodestone.place",
+    "hit": "block.lodestone.hit",
+    "fall": "block.lodestone.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.sculk_sensor.break",
+    "step": "block.sculk_sensor.step",
+    "place": "block.sculk_sensor.place",
+    "hit": "block.sculk_sensor.hit",
+    "fall": "block.sculk_sensor.fall"
+}

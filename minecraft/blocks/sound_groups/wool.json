@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.wool.break",
+    "step": "block.wool.step",
+    "place": "block.wool.place",
+    "hit": "block.wool.hit",
+    "fall": "block.wool.fall"
+}

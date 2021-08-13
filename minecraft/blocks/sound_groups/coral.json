@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.coral_block.break",
+    "step": "block.coral_block.step",
+    "place": "block.coral_block.place",
+    "hit": "block.coral_block.hit",
+    "fall": "block.coral_block.fall"
+}

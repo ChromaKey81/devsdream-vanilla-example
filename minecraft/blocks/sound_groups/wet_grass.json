@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.wet_grass.break",
+    "step": "block.wet_grass.step",
+    "place": "block.wet_grass.place",
+    "hit": "block.wet_grass.hit",
+    "fall": "block.wet_grass.fall"
+}

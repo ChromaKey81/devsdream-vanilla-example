@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.powder_snow.break",
+    "step": "block.powder_snow.step",
+    "place": "block.powder_snow.place",
+    "hit": "block.powder_snow.hit",
+    "fall": "block.powder_snow.fall"
+}

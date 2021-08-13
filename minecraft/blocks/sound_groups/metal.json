@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.5,
+    "break": "block.metal.break",
+    "step": "block.metal.step",
+    "place": "block.metal.place",
+    "hit": "block.metal.hit",
+    "fall": "block.metal.fall"
+}

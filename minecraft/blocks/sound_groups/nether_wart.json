@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.nether_wart.break",
+    "step": "block.stone.step",
+    "place": "item.nether_wart.plant",
+    "hit": "block.stone.hit",
+    "fall": "block.stone.fall"
+}

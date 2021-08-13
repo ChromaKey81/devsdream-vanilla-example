@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.chain.break",
+    "step": "block.chain.step",
+    "place": "block.chain.place",
+    "hit": "block.chain.hit",
+    "fall": "block.chain.fall"
+}

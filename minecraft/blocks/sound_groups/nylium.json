@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.nylium.break",
+    "step": "block.nylium.step",
+    "place": "block.nylium.place",
+    "hit": "block.nylium.hit",
+    "fall": "block.nylium.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.hanging_roots.break",
+    "step": "block.hanging_roots.step",
+    "place": "block.hanging_roots.place",
+    "hit": "block.hanging_roots.hit",
+    "fall": "block.hanging_roots.fall"
+}

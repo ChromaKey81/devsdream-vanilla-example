@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.glass.break",
+    "step": "block.glass.step",
+    "place": "block.glass.place",
+    "hit": "block.glass.hit",
+    "fall": "block.glass.fall"
+}

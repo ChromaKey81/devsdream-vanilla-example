@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.crop.break",
+    "step": "block.grass.step",
+    "place": "item.crop.plant",
+    "hit": "block.grass.hit",
+    "fall": "block.grass.fall"
+}

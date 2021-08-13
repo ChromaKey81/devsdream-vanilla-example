@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.shroomlight.break",
+    "step": "block.shroomlight.step",
+    "place": "block.shroomlight.place",
+    "hit": "block.shroomlight.hit",
+    "fall": "block.shroomlight.fall"
+}

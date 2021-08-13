@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.cave_vines.break",
+    "step": "block.cave_vines.step",
+    "place": "block.cave_vines.place",
+    "hit": "block.cave_vines.hit",
+    "fall": "block.cave_vines.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.azalea.break",
+    "step": "block.azalea.step",
+    "place": "block.azalea.place",
+    "hit": "block.azalea.hit",
+    "fall": "block.azalea.fall"
+}

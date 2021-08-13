@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.netherrack.break",
+    "step": "block.netherrack.step",
+    "place": "block.netherrack.place",
+    "hit": "block.netherrack.hit",
+    "fall": "block.netherrack.fall"
+}

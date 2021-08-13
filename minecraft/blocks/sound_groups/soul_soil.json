@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.soul_soil.break",
+    "step": "block.soul_soil.step",
+    "place": "block.soul_soil.place",
+    "hit": "block.soul_soil.hit",
+    "fall": "block.soul_soil.fall"
+}

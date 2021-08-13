@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.snow.break",
+    "step": "block.snow.step",
+    "place": "block.snow.place",
+    "hit": "block.snow.hit",
+    "fall": "block.snow.fall"
+}

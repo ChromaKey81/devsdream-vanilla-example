@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.ancient_debris.break",
+    "step": "block.ancient_debris.step",
+    "place": "block.ancient_debris.place",
+    "hit": "block.ancient_debris.hit",
+    "fall": "block.ancient_debris.fall"
+}

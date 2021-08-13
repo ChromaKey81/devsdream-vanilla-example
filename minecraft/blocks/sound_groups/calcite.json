@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.calcite.break",
+    "step": "block.calcite.step",
+    "place": "block.calcite.place",
+    "hit": "block.calcite.hit",
+    "fall": "block.calcite.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.amethyst_cluster.break",
+    "step": "block.amethyst_cluster.step",
+    "place": "block.amethyst_cluster.place",
+    "hit": "block.amethyst_cluster.hit",
+    "fall": "block.amethyst_cluster.fall"
+}

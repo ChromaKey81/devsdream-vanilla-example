@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.sweet_berry_bush.break",
+    "step": "block.grass.step",
+    "place": "block.sweet_berry_bush.place",
+    "hit": "block.grass.hit",
+    "fall": "block.grass.fall"
+}

@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.deepslate_tiles.break",
+    "step": "block.deepslate_tiles.step",
+    "place": "block.deepslate_tiles.place",
+    "hit": "block.deepslate_tiles.hit",
+    "fall": "block.deepslate_tiles.fall"
+}

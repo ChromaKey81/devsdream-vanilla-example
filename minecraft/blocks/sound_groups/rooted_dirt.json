@@ -1,0 +1,9 @@
+{
+    "volume": 1.0,
+    "pitch": 1.0,
+    "break": "block.rooted_dirt.break",
+    "step": "block.rooted_dirt.step",
+    "place": "block.rooted_dirt.place",
+    "hit": "block.rooted_dirt.hit",
+    "fall": "block.rooted_dirt.fall"
+}
