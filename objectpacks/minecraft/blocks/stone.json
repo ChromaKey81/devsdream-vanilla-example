@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:simple",
+    "settings": {
+        "material": "stone",
+        "map_color": "stone_gray",
+        "requires_tool": true,
+        "hardness": 1.5,
+        "resistance": 6.0
+    }
+}
