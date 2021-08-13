@@ -1,9 +1,0 @@
-{
-    "type": "gravel",
-    "properties": {
-        "material": "sand",
-        "map_color": "stone",
-        "hardness_and_resistance": 0.5,
-        "sounds": "ground"
-    }
-}

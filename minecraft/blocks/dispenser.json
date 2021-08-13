@@ -1,8 +1,0 @@
-{
-    "type": "dispenser",
-    "properties": {
-        "material": "rock",
-        "requires_tool": true,
-        "hardness_and_resistance": 3.5
-    }
-}

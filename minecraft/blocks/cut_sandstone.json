@@ -1,9 +1,0 @@
-{
-    "type": "simple",
-    "properties": {
-        "material": "rock",
-        "map_color": "sand",
-        "requires_tool": true,
-        "hardness_and_resistance": 0.8
-    }
-}
